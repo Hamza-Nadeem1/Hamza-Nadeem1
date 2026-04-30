@@ -35,13 +35,17 @@
 ### 📊 League Standings (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza2012shaikh-collab&show_icons=true&theme=grass&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71" alt="GitHub Stats" />
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Nadeem1&show_icons=true&theme=radical&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=ffffff" alt="GitHub Stats" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza2012shaikh-collab&theme=grass&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71" alt="GitHub Streak" />
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Nadeem1&theme=black-ice&hide_border=true&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamza2012shaikh-collab&color=2ECC71&style=flat-square&label=STADIUM+VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hamza-Nadeem1&color=2ECC71&style=flat-square&label=STADIUM+VISITORS" alt="Profile Views" />
 </div>
